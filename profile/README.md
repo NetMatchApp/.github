@@ -1,6 +1,6 @@
 # NetMatch
 
-Because networking is important.
+Because networking matters.
 
 ## Our team
 
